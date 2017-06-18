@@ -1,0 +1,35 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>{{ page.title | replace:' - ',': ' | replace:': PINotes',' - PINotes' }}</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="alternate" type="application/rss+xml" title="PINotes latest items feed | See privacy note in description" href="../pages/latest-rss.xml" />
+<link rel="stylesheet" href="../css/minimum.css" type="text/css" media="all" />
+<meta name="description" content="{{ page.description | replace:' - ',': ' | replace:'"','' }}" />
+<meta itemprop="dateCreated" content="{{ page.date | date: "%Y-%m-%d" }}T00:00:00Z" />
+<meta itemprop="dateModified" content="{{ page.modified | date: "%Y-%m-%d" }}T00:00:00Z" />
+<meta itemprop="datePublished" content="{{ page.date | date: "%Y-%m-%d" }}T00:00:00Z" />
+<meta name="dc.date" content="{{ page.date | date: "%Y-%m-%d" }}" />
+<meta name="dc.created" content="{{ page.date | date: "%Y-%m-%d" }}" />
+<meta name="dc.modified" content="{{ page.modified | date: "%Y-%m-%d" }}" />
+<meta name="lastmod" content="{{ page.modified | date: "%Y-%m-%d" }}T00:00:00Z" />
+<meta name="pubdate" content="{{ page.date | date: "%Y-%m-%d" }}T00:00:00Z"  />
+<meta name="viewport" content="width=device-width" />
+<meta property="article:modified_time" content="{{ page.modified | date: "%Y-%m-%d" }}T00:00:00Z" />
+<meta property="article:published_time" content="{{ page.date | date: "%Y-%m-%d" }}T00:00:00Z" />
+<!-- <meta property="og:pubdate" content="{{ page.date | date: "%Y-%m-%d" }}T00:00:00Z" /> -->
+<meta property="og:image" content="https://pinotes.github.io/pages/images/image_symbols.png" />
+<meta property="og:image:type" content="image/png" />
+</head>
+<body>
+<div id="main">
+<p id="header"><span class="alert">STOP.</span> Before continuing, <a href="../pages/security.html">click here</a> for important Internet security information about browsing this site.<br />
+If a web address is not clickable, copy and paste it into the address bar of a new tab.<br />
+Try to switch to using <a href="https://github.com/pinotes/pinotes.github.io">https://github.com/pinotes/pinotes.github.io</a> if you find yourself visiting this site regularly.</p>
+<p><span style="font-size: 1.618em"><b><a style="text-decoration: none" href="../index.html">PINotes</a></b></span><br /><!-- <span style="font-size: 2.618em">{{ page.type }}</span><br /> --><span id="floating-heading"><a style="text-decoration: none" href="../{{ page.folder }}/index.html">{{ page.subtype }}</a></span></p>
+<hr />
+{{ content }}<hr />
+{% include footer_post.html %}</div>
+{% include fixed-banner.html %}
+</body>
+</html>

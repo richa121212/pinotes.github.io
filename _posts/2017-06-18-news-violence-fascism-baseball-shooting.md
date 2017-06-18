@@ -1,0 +1,91 @@
+---
+date: 2017-06-18 00:00:00 +0000
+description: Fascism, 2017 Congressional baseball shooting, Middle East, Russia, sanctions. News and analysis from PINotes -- news, reviews and analysis from a Maoist global perspective
+tags: news
+layout: news
+title: Baseball shooting raises questions about violence, and opposing fascism and war in the United States - PINotes
+listed: News> Baseball shooting raises questions about violence, and opposing fascism and war in the United States
+type: News & Analysis
+subtype: News-All
+folder: news/all
+modified: 2017-06-18 00:00:00 +0000
+---
+<div class="hide"><p id="banner-md"><a href="../index.md"><img src="../_layouts/images/banner_small_600.png" alt="Proletarian Internationalist Notes (PINotes)" /></a><br /><a href="../index.md">HOME</a> | <a href="../pages/latest.md">LATEST</a> | <a href="../pages/agitation/index.md">CAMPAIGNS</a> | <a href="../pages/glossary/index.md">GLOSSARY</a></p><hr /><h2>News & Analysis &gt; <a href="../news/all/index.md">All</a></h2></div><p id="area-description"><i>News & analysis from Proletarian Internationalist Notes&mdash;news, reviews and analysis from a global perspective</i></p><div class="hide"></div>
+
+### Baseball shooting raises questions about violence, and opposing fascism and war in the United States
+
+<span id="byline">June 16, 2017</span>
+
+<div id="article-body">
+
+<p>What can one say about recent events that is a little different from what some others are saying.</p>
+
+<p>Conservatives are mistaken to say the Congressional baseball practice shooting reflects a radicalization of the left wing in the United States, or some kind of militant edgy leftism. No real radical or leftist did the shooting.</p>
+
+<p>An apparent Democrat or liberal-leaning independent did, who -- despite some reported words against George W. Bush "war profiteers"<a class="note-ref" href="#user-content-note1" name="user-content-noteref1">(1)</a> -- may have cared more about the economic interests of "the 99%" in the United $tates than about U.S. interventions and militarism.</p>
+
+<p>The alleged shooter supposedly supported former U.S. presidential candidate Bernie Sanders, who ran as a Democrat. Sanders -- who still says Syria's president is a war criminal who needs to go -- is a warmonger and didn't support a net military spending cut while campaigning. In 2011, Sanders voted for a resolution supporting "the possible imposition of a no-fly zone over Libyan territory" and "transition" to a government without Libya's head of state.</p>
+
+<p>Barack Obama and Hillary Clinton used that resolution to justify invading Libya. Muammar Gaddafi ended up dying at the hands of U.S.-backed forces. Clinton had openly welcomed the death of the head of state.</p>
+
+<p>U.S. leaders should be investigated and sentenced according to law and legal procedure for war crimes. However, this writer opposes assassinations and other violence in the rich First World. The First World has no real proletariat within itself but exploits other countries. Non-Americans will experience the brunt of any repressive response to the white shooter's outburst in Virginia.</p>
+
+<p>For that matter, this writer has consistently rejected the highly problematic and evidently dangerous practice of calling Republicans in the United States "fascist" when deserving Democrats aren't called the same thing. Others with a scientific understanding of fascism have repeatedly warned about this over many years and also discussed problems with populist anger of Americans.</p>
+
+<p><b>U.S. fascism</b></p>
+
+<p>The whole Sanders-Trump phenomenon raises a question of the role of liberals in modern fascism. Liberals supporting economic isolationism and populism, without rejecting military interventions, are doing things that make them complicit in the development of fascism, which they then associate with Republicans and conservatives only.</p>
+
+<p>The vast majority of Americans -- not just the straight people, whites, cisgender people, males, or people who are some combination thereof -- are reactionary so there is little reason to think U.S. populism that opposes interventions weakly, if it all, will have a good outcome. Those expecting such populism to lead to change for the better are bound to be frustrated. This frustration will occur in a country where many different people seem to have violent or narcissistic tendencies to begin with.</p>
+
+<p>More than 99.99999% of Democrats aren't going to try to kill a politician in the United States themselves, but it is clear that people with the most angry or elaborate rhetoric, who are indignant and provocative and have aggressive and edgy tactics, can be Democrats. Such people who are Democrats are still Democrats. They can end up contributing to fascism not just through certain kinds of attacks that make things worse in various ways, but also by normalizing fascism or its development when Democrats could be considered possible fascists.</p>
+
+<p>Obama presided over the number-one prison state, multiple new invasions, kill-list murders, dramatic expansion of surveillance, an annual National Intelligence Program budget larger than $50 billion for seven years, military budgets larger than US$600 and $700 billion, and criminalization and deportation of undocumented migrants that earned Obama the title "deporter in chief" -- plenty for supposed anti-fascists to think about. Instead of addressing that Obama's biography, identity, personality and rhetoric posed a serious problem in such a context (rather than an opportunity for some type of progress), many liberals exited what was left of the antiwar movement in the United States and took up tepid skepticism combined with Middle East and Russia warmongering. There were no artistic productions suggesting Obama's death, widely defended by liberals as free speech. Instead, liberals as a whole consistently gave Obama one of his highest approval figures. It was left to conservatives called "isolationists" to oppose war, because liberals and mainstream Republicans weren't doing it.</p>
+
+<p>Now, many U.S. liberals reinforce a mistaken nation that contemporary fascism can be discerned mainly in terms of things like Trump's identity, demeanor, and language, and some conservative positions like opposing funding of organizations providing abortions or abortion education to people in the Third World. They call Trump and alleged isolationists fascist for wanting to keep out a few more refugees from countries the United States has invaded or may invade soon. (Relative to the number many other countries let in, the United States under Obama admitted a small number from Syria.) Many of these liberals oppose interventions, and bloated spy budgets, less than some of the alleged fascists do.</p>
+
+<p><b>U.S. foreign policy and international conflicts</b></p>
+
+<p>The Third World does have a proletariat and other oppressed classes. Nevertheless, there can be no agreement with CIA or FBI types who try to have things both ways about Trump "fascism" and suggest the time for violence in the First World is always never while the time for violence and overthrowing far-off governments in the Third World is always now.</p>
+
+<p>Maoism deserves much of its violent reputation. This writer has never been in power or led armed struggle, but there is a way in which I do accept responsibility for any erroneous deaths caused by genuine Maoist revolutions and Leninist revolutions before them. This writer has no delusion of grandeur, but there is also a question of responsibility for deaths of some people in certain countries that need to be part of a united front against the United States. (Many accept responsibility for nothing though they are complicit in U.S. wars and undermining Middle East peace efforts.) Nonetheless, the message needed right now is one of peace.</p>
+
+<p>I don't mean peace particularly in the sense of Democrats and Republicans saying nice things about each other, and admitting and clinging to their differences as Democrats and Republicans, after an attempted assassination or massacre. Unity of Americans is generally a bad thing, and so are the ways in which Americans are usually divided. Liberals saying Trump hasn't accomplished anything in legislation, preventing him from accomplishing it, and not letting Trump take credit for economic gains, are contributing to U.S. wars and a lack of peace in the world. They easily do so because the United States is already so affluent and dominant. A result of not allowing Trump legislative victories may be to cause Trump to use his power to independently attack other countries, to the extent he can do so legally and illegally.</p>
+
+<p>It should not be necessary to have attempted assassinations, or missile attacks against other countries, for Trump's approval rating<a class="note-ref" href="#user-content-note2" name="user-content-noteref2">(2)</a> to increase.</p>
+
+<p>The United States is acting against peace in Syria. It is acting against peace in Palestine and on the Korean Peninsula. Russia is an imperialist country as are the United States and many EU countries, and Iran, Oman, Kuwait and Qatar all have capitalist, feudal and neocolonial aspects, but there is nothing wrong with any of those countries supporting a peace that the United States opposes. U.S. hegemony -- weakening and interfering with peace efforts -- needs to go before other issues can go on the front burner.</p>
+
+<p>U.S. foreign policy is against both Middle East peace and Russia. That is why at least some of what Russia, which is much weaker than the United States, says about peace can be taken seriously. The United States' policy against Hamas, Hezbollah, and Iran, promotes division and conflict in the Middle East. As if to prove or ensure that the United States' Middle East policy isn't both anti-Iran and pro-Russia, the U.S. Senate nearly unanimously passed legislation<a class="note-ref" href="#user-content-note3" name="user-content-noteref3">(3)</a> yesterday supporting existing and new sanctions against Iran and Russia.</p>
+
+<p>Only two senators, Republicans -- Rand Paul, and Mike Lee from Utah -- voted against the Russia provisions. No Democratic senator voted against the Russia provisions, and Bernie Sanders voted for the Russia amendment despite later voting against the whole bill and having said some words recently in favor of black lives, "criminal justice system" reforms, First Nations' sovereignty, "economic, racial and environmental justice" "worldwide," and the Iran nuclear agreement. On Twitter, Sanders also said, "I strongly support imposing sanctions on Russia. It's unacceptable for Russia to interfere in foreign elections. There must be consequences."<a class="note-ref" href="#user-content-note4" name="user-content-noteref4">(4)</a> That was after saying the Iran sanctions involved a risk not "worth taking."</p>
+
+<p>That is what Democratic-Republican looks like today: attacking both Iran and Russia, and possibly accepting an attack on Iran because of a compromise involving anti-Russia pressure on Trump. Some Democrats may have accepted undermining Obama's Iran nuclear agreement on condition of Republicans' supporting sanctions against Russia. Although, most Republicans weren't pro-Russia in the first place, and most Democrats weren't pro-Iran.</p>
+
+<p>Regarding the reported possible death of ISIS' leader due to a Russian attack,<a class="note-ref" href="#user-content-note5" name="user-content-noteref5">(5)</a> this writer sheds no tears over that whatsoever. Al-Baghdadi arrogantly and insolently demanded obedience from Muslims in all countries, prioritized opposing governments of Muslim countries, prioritized ideological purity over opposing the Amerikans, collaborated with the Satanic polytheists in Washington, and gave the invaders a pretext. The attacks in the West just complicate efforts to oppose U.S. and NATO aggression as interventionism. The oppressed are right to support peace, security and stability in the context of U.S. duplicity in Middle East peace and anti-terrorism efforts, and they are right to denounce ISIS and its secular equivalents.</p>
+
+<p>As for the current severe electricity situation in the Gaza Strip, of course this doesn't look good after Hamas supported the Palestinian prisoners' hunger strike, which quickly ended after Trump's warmongering against Hamas in Riyadh and al-Quds. However, it is not for some non-Palestinian website to say the time for Palestinians to overthrow Mahmoud Abbas is this exact moment. Abbas obviously still accepts money from the Amerikans for the Palestinian Authority, but like it or not Iran still has relations with Palestine at least partly through people who are in power in the West Bank. Also, it is clear that some of Abbas' critics support "Greater Israel" or seem less aware of the Amerikans' duplicity than Abbas is.</p>
+
+<p>Regardless of the extent to which Iran supports Hamas now or supported it in the past, Hamas now officially supports a two-state step. Even before Hamas released the political document in May, Iran seemed to sometimes refer to Islamic Jihad favorably or equally relative to Hamas, but Islamic Jihad is reportedly relatively small. There are various ways to approach a two-state outcome, but some of those opposing violence in the First World (correctly) and yet supporting immediate all-out fighting in Palestine may have some thinking or explaining to do. &loz;</p>
+
+</div>
+
+<b>See:</b><br />
+&bull; "Qatar hubbub raises question of fake opposition to Israel," 2017 June. <a href="https://github.com/pinotes/pinotes.github.io/blob/master/_posts/2017-06-13-news-Qatar-blockade.md" target="_blank">https://github.com/pinotes/pinotes.github.io/blob/master/_posts/2017-06-13-news-Qatar-blockade.md</a><br />
+&bull; "Soviet honeypot, double agent Jared Kushner facilitated American-Arab alliance that Russia opposes," 2017 June. <a href="https://github.com/pinotes/pinotes.github.io/blob/master/_posts/2017-06-06-news-Kushner-Arab-NATO.md" target="_blank">https://github.com/pinotes/pinotes.github.io/blob/master/_posts/2017-06-06-news-Kushner-Arab-NATO.md</a><br />
+&bull; "Americans use the travel ban issue to support war," 2017 April. <a href="https://github.com/pinotes/pinotes.github.io/blob/master/_posts/2017-04-11-news-travel-ban-Syria-warmongering.md" target="_blank">https://github.com/pinotes/pinotes.github.io/blob/master/_posts/2017-04-11-news-travel-ban-Syria-warmongering.md</a><br />
+&bull; "Trump tries to bribe Americans with "jobs" to support war on Iran," 2017 May. <a href="https://github.com/pinotes/pinotes.github.io/blob/master/_posts/2017-05-27-news-Trump-Middle-East-tour.md" target="_blank">https://github.com/pinotes/pinotes.github.io/blob/master/_posts/2017-05-27-news-Trump-Middle-East-tour.md</a><br />
+&bull; "Jobs or World War III: U.S. isolationists raise questions of trade-offs in foreign policy and economic policy," 2017 May. <a href="https://github.com/pinotes/pinotes.github.io/blob/master/_posts/2017-05-16-news-Buchanan-tradeoffs.md" target="_blank">https://github.com/pinotes/pinotes.github.io/blob/master/_posts/2017-05-16-news-Buchanan-tradeoffs.md</a><br />
+&bull; "Chance of Trump impeachment/stepping down: 51%. Chance of that having anything to do with real anti-fascism: 0%." 2017 May. <a href="https://github.com/pinotes/pinotes.github.io/blob/master/_posts/2017-05-23-news-Trump-impeachment-odds.md" target="_blank">https://github.com/pinotes/pinotes.github.io/blob/master/_posts/2017-05-23-news-Trump-impeachment-odds.md</a><br />
+&bull; "Criticism of Trump as an unaccomplished president is leading to war," 2017 May. <a href="https://github.com/pinotes/pinotes.github.io/blob/master/_posts/2017-05-05-news-Trump-first-100-days.md" target="_blank">https://github.com/pinotes/pinotes.github.io/blob/master/_posts/2017-05-05-news-Trump-first-100-days.md</a>
+
+<b>Notes:</b><br />
+<a class="note-no" href="#user-content-noteref1" name="user-content-note1">1.</a> "The suspect in the congressional baseball practice shooting was a fierce Trump opponent who called him a 'traitor'," 2017 June 14. http://www.businessinsider.com/james-hodgkinson-steve-scalise-shooter-trump-2017-6<br />
+<a class="note-no" href="#user-content-noteref2" name="user-content-note2">2.</a> "Daily Presidential Tracking Poll," 2017 June 16. http://www.rasmussenreports.com/public_content/politics/political_updates/prez_track_jun16<br />
+"Trump Approval Index history." http://www.rasmussenreports.com/public_content/politics/trump_administration/trump_approval_index_history<br />
+<a class="note-no" href="#user-content-noteref3" name="user-content-note3">3.</a> "S. 722: Countering Iran’s Destabilizing Activities Act of 2017." https://www.govtrack.us/congress/bills/115/s722/text<br />
+<a class="note-no" href="#user-content-noteref4" name="user-content-note4">4.</a> @SenSanders, 12:12 PM - 15 Jun 2017. https://twitter.com/SenSanders/status/875430772274024449 "I strongly support imposing sanctions on Russia. It's unacceptable for Russia to interfere in foreign elections. There must be consequences."<br />
+@SenSanders, 11:25 AM - 15 Jun 2017. https://twitter.com/SenSanders/status/875418892591616000 "I believe that these new sanctions against Iran could endanger the very important nuclear agreement. That is not a risk worth taking."<br />
+<a class="note-no" href="#user-content-noteref5" name="user-content-note5">5.</a> "Is ISIS chief Abu Bakr al-Baghdadi dead? Russia and observers offer conflicting reports," 2017 June 16. http://www.newsweek.com/isis-chief-abu-bakr-al-baghdadi-dead-626468
+
+<div class="hide"></div><div class="hide"><p>_____________________________________<br /><a href="../index.md">home</a> | <a href="../pages/latest.md">latest</a> | <a href="../pages/agitation/index.md">campaigns</a> | <a href="../reviews/movies/index.md">movie reviews</a> | <a href="../pages/newsletter/index.md">newsletter</a><br /><a href="../index.md"><img src="../_layouts/images/logo_250.png" alt="PINotes" /></a></p></div>

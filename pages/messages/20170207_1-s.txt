@@ -1,0 +1,44 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+As of this time:
+
+The Reddit account with the username "pinotes" is an official account for PINotes.
+
+It is not to be used to receive private messages.
+
+It may be used to reply in public to public posts and comments on Reddit.
+
+Any message encrypted to this key will still be ignored and will not be decrypted.
+
+Copied and pasted to indicate the time:
+
+Zhongshan, Antarctica
+Weather History for 89573 - February, 2017
+Monday, February 6, 2017
+
+Hourly Weather History & Observations
+Time (GMT) 	Temp. 	Dew Point 	Humidity 	Pressure 	Visibility 	Wind Dir 	Wind Speed 	Gust Speed 	Precip 	Events 	Conditions
+
+12:00 PM 	-1 °C 	-5 °C 	64% 	995 hPa 	20 km 	ENE 	9.3 km/h /   	- 	- 	Snow 	Light Snow
+
+Source:
+https://www.wunderground.com/history/wmo/89573/2017/2/6/DailyHistory.html?req_city=Zhongshan&req_state=&req_statename=Antarctica&reqdb.zip=00000&reqdb.magic=1&reqdb.wmo=89573
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG/MacGPG2 v2.0.22 (Darwin)
+Comment: GPGTools - http://gpgtools.org
+
+iQIcBAEBAgAGBQJYmRTlAAoJEC1DkJoMP0pNEOsP/j0/YDhu3xqjuqwbQkpvcRht
+tzwWn9E5Fgnzyvo2MOWCcDF9qWDSPG9+t8OYMKH8miDf8NA4+5RSY/vVeuE8857I
+Sq37Cg73m4mKu9ivuUh6M2KK+V5/7291Gwa2fDxaKyQuy7+xqs2hjZE3RwQeflvN
+moEXfGFau0CYpcksopflmRDyrZbGdxHozLVGrTj9ZAYNI+P7b/F/vEfBrGn2M7V8
+bH6C9XInvZwlKWfDMgUk8p1bj3FGI7XiIjeZS4uptf8jEli4rFZ2vu8XAMB48rSF
+TBx1OzOqnP8dOK1IZ+xhoxQNhtmhmuerrNPYiMEjzySPmq2xWdGDlja88NBwa4U7
+U3PCpB4/vRNfouTGQFioqtMRoh32TdJped+SgJJz5YSxJTb3LT89XvyO5QSgoJuY
++UhMhJvpev5Jx39xSb/XFzovYOam1bHxciRPigU5m1k5uhV6ebY4MtDdczjku4D7
+S36lx7sWSBslIpLpf9eZQ2yq05AROAGBLxq6oEm/pBpV2OizKZMLcSUVay40RGuA
+/Cd89Ql4wUxup8Dki3TSegoUNXN6+rycYpkFtTmMfFU4mKHWHtI0nhJ8VBRB3xDW
+FHUyU1qHrtxjXtbzMbEhZGwfVv+blX48A753ZRd1G4Vdn5raVRL6jut86joYKVi5
+G/sBquI3T2W4sMkXS4Nl
+=TKK4
+-----END PGP SIGNATURE-----
