@@ -95,5 +95,6 @@ http://www.afr.com/markets/commodities/oil-price-rally-at-risk-of-stalling-as-tr
 "Senior Bank of Israel official says shekel 'notably Overvalued'," 2016 December 15. https://www.bloomberg.com/news/articles/2016-12-15/senior-bank-of-israel-official-says-shekel-notably-overvalued<br />
 "Bank of Israel's love of dollars inflicts heavy tax on Israelis," 2016 December 20. http://www.haaretz.com/israel-news/business/1.760057<br />
 <a class="note-no" href="#user-content-noteref13" name="user-content-note13">13.</a> "China & Israel business relations: A love upgrade," 2016 December 20. http://www.atimes.com/china-israel-business-relations-love-upgrade/
-
+Bank of Japan could announce major policy shift this week as bond yields top limit again.
+https://signalexpertglobal.com <br/>
 <div class="hide"></div><div class="hide"><p>_____________________________________<br /><a href="../index.md">home</a> | <a href="../pages/latest.md">latest</a> | <a href="../pages/agitation/index.md">campaigns</a> | <a href="../reviews/movies/index.md">movie reviews</a> | <a href="../pages/newsletter/index.md">newsletter</a><br /><a href="../index.md"><img src="../_layouts/images/logo_250.png" alt="PINotes" /></a></p></div>
